@@ -1,0 +1,6 @@
+ streamlit
+requests
+google-generativeai
+apscheduler
+pytz
+python-dotenv
