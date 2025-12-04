@@ -1,6 +1,10 @@
- streamlit
+streamlit
 requests
 google-generativeai
 apscheduler
 pytz
 python-dotenv
+pandas
+Pillow
+beautifulsoup4
+plotly
